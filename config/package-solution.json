@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-training-930-am-client-side-solution",
+    "id": "ee0a4310-394f-410c-9134-6f960764139b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SpfxTraining930am description"
+      },
+      "longDescription": {
+        "default": "SpfxTraining930am description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-training-930-am Feature",
+        "description": "The feature that activates elements of the spfx-training-930-am solution.",
+        "id": "a35d5ea8-b049-44a9-9801-98e1f6fc883a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-training-930-am.sppkg"
+  }
+}

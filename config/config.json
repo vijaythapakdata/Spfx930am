@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "fluentui-controls-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/fluentuiControls/FluentuiControlsWebPart.js",
+          "manifest": "./src/webparts/fluentuiControls/FluentuiControlsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "FluentuiControlsWebPartStrings": "lib/webparts/fluentuiControls/loc/{locale}.js"
+  }
+}
