@@ -66,6 +66,9 @@ This extension illustrates the following concepts:
 
 ## References
 
+<img width="572" height="672" alt="image" src="https://github.com/user-attachments/assets/b51d2693-b0f8-428f-96ab-5644501d5d80" />
+
+
 - [Getting started with SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Building for Microsoft teams](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-overview)
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
