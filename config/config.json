@@ -17,11 +17,20 @@
           "manifest": "./src/webparts/propertyPaneWebPart/PropertyPaneWebPartWebPart.manifest.json"
         }
       ]
+    },
+    "share-point-form-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sharePointForm/SharePointFormWebPart.js",
+          "manifest": "./src/webparts/sharePointForm/SharePointFormWebPart.manifest.json"
+        }
+      ]
     }
   },
   "externals": {},
   "localizedResources": {
     "FluentuiControlsWebPartStrings": "lib/webparts/fluentuiControls/loc/{locale}.js",
-    "PropertyPaneWebPartWebPartStrings": "lib/webparts/propertyPaneWebPart/loc/{locale}.js"
+    "PropertyPaneWebPartWebPartStrings": "lib/webparts/propertyPaneWebPart/loc/{locale}.js",
+    "SharePointFormWebPartStrings": "lib/webparts/sharePointForm/loc/{locale}.js"
   }
 }
